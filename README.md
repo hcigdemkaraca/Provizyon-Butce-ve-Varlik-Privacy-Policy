@@ -3,7 +3,7 @@
 Provizyon - Gizlilik Politikası
 Son Güncelleme Tarihi: 21 Şubat 2026
 
-Hatice Çiğdem Karaca tarafından geliştirilen Provizyon uygulamasını kullandığınız için teşekkür ederiz. 
+Hatice Çiğdem Karaca tarafından geliştirilen Provizyon: Bütçe ve Varlık uygulamasını kullandığınız için teşekkür ederiz. 
 Gizliliğiniz bizim için son derece önemlidir. 
 Bu Gizlilik Politikası, Provizyon uygulamasını kullandığınızda bilgilerinizi nasıl (ve neden) toplamadığımızı, kullanmadığımızı ve paylaşmadığımızı açıklar.
 
