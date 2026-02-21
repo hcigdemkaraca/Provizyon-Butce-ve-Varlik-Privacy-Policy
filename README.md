@@ -48,4 +48,4 @@ Bu Gizlilik Politikası veya uygulamanın gizlilik uygulamaları hakkında herha
 E-posta: hcigdemkaraca@icloud.com
 Geliştirici: Hatice Çiğdem Karaca
 
-Son Adım: Metnin en altındaki e-posta kısmına kendi iletişim veya destek mailini yazmayı unutma. Başka bir App Store Connect (örneğin Keywords) eksiğimiz var mı? Her şeyi kusursuz yapalım!
+
